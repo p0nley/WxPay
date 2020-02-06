@@ -1,0 +1,17 @@
+{
+    "name": "ponley/github.com",
+    "description": "WxPay",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ponley",
+            "email": "ponley@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tianzhao\\WxPayApi\\": "src/WxPayApi"
+        }
+    },
+}
