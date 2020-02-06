@@ -2,6 +2,7 @@
     "name": "p0nley/wxpay",
     "description": "根据微信官方WxpayAPI_php.zip 3.*版本包简单修改,方便composeran安装",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "ponley",
