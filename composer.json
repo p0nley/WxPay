@@ -9,10 +9,11 @@
             "email": "ponley@126.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "tianzhao\\WxPayApi\\": "src/WxPayApi"
+            "tianzhao\\": "src/"
         }
     }
 }
