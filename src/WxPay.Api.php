@@ -1,5 +1,5 @@
 <?php
-namespace tianzhao;
+namespace tianzhao\wxpay;
 //use tianzhao\WxPayConfigInterface;
 //use tianzhao\WxPayException;
 //use tianzhao\WxPayDataBase;
